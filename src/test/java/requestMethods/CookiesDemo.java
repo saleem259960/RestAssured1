@@ -11,6 +11,7 @@ import io.restassured.response.Response;
 
 public class CookiesDemo {
 	//@Test(priority = 1)
+	int i=10;
 	public void cookiesTest() {
 		given().
 		when().
